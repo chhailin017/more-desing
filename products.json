@@ -1,0 +1,37 @@
+[
+  {
+    "name": "website ui",
+    "file": "figma",
+    "price": "30"
+  },
+  {
+    "name": "website design",
+    "file": "code",
+    "price": "300"
+  },
+  {
+    "name": "landing page ui",
+    "file": "psd",
+    "price": "50"
+  },
+  {
+    "name": "website landing page",
+    "file": "code",
+    "price": "309"
+  },
+  {
+    "name": "website landing page ui",
+    "file": "figma",
+    "price": "500"
+  },
+  {
+    "name": "website landing page ui",
+    "file": "ai",
+    "price": "2050"
+  },
+  {
+    "name": "website page ui",
+    "file": "psd",
+    "price": "500"
+  }
+]
